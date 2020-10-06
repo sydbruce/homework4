@@ -120,7 +120,7 @@ header p{
 .about-image, .method-image, .clients-image, .contact-image{
   /*Your Code Here*/
   grid-column: 1 / -1;
-  max-height: 700 px;
+  max-height: 700px;
   overflow: hidden;
 }
 
